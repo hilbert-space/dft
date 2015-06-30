@@ -1,0 +1,8 @@
+[package]
+name = "dft"
+version = "0.0.1"
+authors = ["Ivan Ukhov <ivan.ukhov@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/hilbert-space/dft"
+homepage = "https://github.com/hilbert-space/dft"
+description = "DFT."
